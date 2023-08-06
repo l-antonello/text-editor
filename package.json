@@ -1,0 +1,25 @@
+{
+  "name": "JATE",
+  "version": "1.0.0",
+  "description": "A Node.js project using Express for server-side development.",
+  "main": "server.js",
+  "scripts": {
+    "start:dev": "nodemon server.js",
+    "start": "node server.js",
+    "server": "node server.js",
+    "build": "echo \"No build step specified\"",
+    "install": "echo \"No custom install step specified\"",
+    "client": "echo \"No client-specific script specified\""
+  },
+  "keywords": ["Node.js", "Express", "Server", "API"],
+  "author": "lantonello",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
