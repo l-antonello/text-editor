@@ -3,7 +3,7 @@ Progressive Web Apps (PWAs) are web applications that provide a set of specific 
 
 ## Installation
 
-This application is run through Heroku, but can be installed locally with the install icon in your browser search bar:
+[This application](https://text-editor-lantonello-d00cd97b1320.herokuapp.com/) is deployed by Heroku, but can be installed locally with the install icon in your browser search bar:
 ![image](https://github.com/l-antonello/text-editor/assets/122548483/0fcee9e4-d6ef-4902-b0e1-f87b161a43e4)
 or the Install! button at the top left of the web page: ![image](https://github.com/l-antonello/text-editor/assets/122548483/a440f750-f19b-47ad-9087-966d6b979f49)
 
