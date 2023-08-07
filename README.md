@@ -10,6 +10,8 @@ or the Install! button at the top left of the web page: ![image](https://github.
 
 ## Usage
 Text-editor is an application is a text editor that runs in the browser. It is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
+
+
 ![image](https://github.com/l-antonello/text-editor/assets/122548483/7b2f631f-4bf1-4cec-a22c-2d916bf4afd6)
 
 
